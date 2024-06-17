@@ -1,7 +1,0 @@
-path: /home/ankur/Desktop/development/object-detection/custom-dataset-bootle
-train: ../train/images
-val: ../valid/images
-test: ../test/images
-
-nc: 1
-names: ['bottle']
