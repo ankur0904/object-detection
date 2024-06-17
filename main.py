@@ -42,5 +42,5 @@ while True:
                 cvzone.putTextRect(img, f"{classNames[cls]} {conf}", (max(0, x1), max(35, y1)), scale=3, thickness=3)
     # imS = cv2.resize(img, (1280, 720))
     cv2.imshow("Image", img)
-    cv2.waitKey(1)
+    cv2.waitKey(0)
 
